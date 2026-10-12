@@ -17,9 +17,6 @@ A simple and interactive **To-Do List web application** built using Python and S
 - **Python** — Application logic
 - **Streamlit** — Interactive web interface
 
-## 📸 Application Screenshot
-
-![Smart To-Do List App](https://private-user-images.githubusercontent.com/229155402/567856573-54dea053-9edf-424e-8bfd-38c400fd18a6.png)
 
 ## ⚙️ How to Run Locally
 
