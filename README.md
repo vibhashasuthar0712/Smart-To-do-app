@@ -26,7 +26,6 @@ A simple and interactive **To-Do List web application** built using Python and S
 git clone YOUR_REPOSITORY_URL
 cd YOUR_REPOSITORY_FOLDER
 ```
-
 Replace the placeholders with your actual GitHub repository URL and folder name.
 
 **2. Install dependencies**
