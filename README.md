@@ -42,7 +42,6 @@ streamlit run app.py
 ```
 
 
-
 #Image of the app
 <img width="1366" height="614" alt="Screenshot (454)" src="https://github.com/user-attachments/assets/54dea053-9edf-424e-8bfd-38c400fd18a6" />
 
@@ -51,7 +50,5 @@ streamlit run app.py
 ## 🎯 Project Goal
 
 The goal of this project is to make everyday task management simple, organized, and interactive.
-
----
 
 Built with ❤️ using Python and Streamlit.
